@@ -1,0 +1,15 @@
+# ML Homework Assignment #2 # May 21, 2019
+# Name: 黃子源
+# ID #: B05902050
+# email: b05902050@ntu.edu.tw
+# compiled on Mac OS with python3.6
+
+All : prob11~13 prob14~16
+
+prob11~13 :
+	@echo "Problem 11~13:"
+	python3.6 decision_tree.py
+
+prob14~16 :
+	@echo "Problem 14~16:"
+	python3.6 random_forest.py

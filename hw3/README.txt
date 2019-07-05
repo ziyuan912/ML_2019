@@ -1,0 +1,1 @@
+simply run "python hw3.py" and the program will plot the histogram of both Ein and Eout.

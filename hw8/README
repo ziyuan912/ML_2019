@@ -1,0 +1,19 @@
+# ML Homework Assignment #4 # June 7, 2019
+# Name: 黃子源
+# ID #: B05902050
+# email: b05902050@ntu.edu.tw
+# compiled on Mac OS with python3.6
+
+All : prob11~12 prob13~14 prob15~16
+
+prob11~12 :
+	@echo "Problem 11~12:"
+	python3.6 11-12.py
+
+prob13~14 :
+	@echo "Problem 13~14:"
+	python3.6 13-14.py
+	
+prob15~16 :
+	@echo "Problem 15~16:"
+	python3.6 15-16.py
